@@ -1,0 +1,39 @@
+127.0.0.1 dlied1.tcdn.qq.com
+127.0.0.1 dlied2.tcdn.qq.com
+127.0.0.1 dlied3.tcdn.qq.com
+127.0.0.1 dlied4.tcdn.qq.com
+127.0.0.1 dlied5.tcdn.qq.com
+127.0.0.1 dlied6.tcdn.qq.com
+127.0.0.1 down.qq.com
+127.0.0.1 dlied1.qq.com
+127.0.0.1 dlied1.qq.com
+127.0.0.1 pingmid.qq.com
+127.0.0.1 mta.qq.com
+127.0.0.1 vmp.qq.com
+127.0.0.1 cdn.watest.qq.com
+127.0.0.1 hkconfig.gcloud.qq.com
+127.0.0.1 cs.mbgame.gamesafe.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 idcconfig.gcloud.qq.com
+127.0.0.1 logs.game.qq.com
+127.0.0.1 szmg.qq.com
+127.0.0.1 www.qq.com
+127.0.0.1 ns3.qq.com
+127.0.0.1 ns2.qq.com
+127.0.0.1 ns1.qq.com
+127.0.0.1 app.qq.com
+127.0.0.1 mail.qq.com
+127.0.0.1 shop.qq.com
+127.0.0.1 172.104.163.233
+127.0.0.1 pingma.qq.com:80
+127.0.0.1 oth.eve.mdt.qq.com:8080
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 cloud.gsdk.proximabeta.com:18081
+
+127.0.0.1       localhost
+::1             ip6-localhost
+
+
+
+
+
